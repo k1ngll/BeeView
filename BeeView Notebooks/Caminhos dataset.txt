@@ -1,0 +1,4 @@
+BeeView Notebooks\Analise Franquia\Datasets\TMDB_movie_dataset_25-05.csv
+BeeView Notebooks\Analise Oscar\Dataset\Dataset_ADD.csv
+BeeView Notebooks\Analise Oscar\Dataset\Dataset_Oscar_Filmes_Limp_Analis.csv
+BeeView Notebooks\Analise Oscar\Dataset\Dataset_Oscar.csv
