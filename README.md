@@ -58,28 +58,3 @@ Engenharia de Features: Criação de novas variáveis e transformação das exis
 
 Modelagem e Análise: Definição do problema, seleção de modelos, divisão de dados, treinamento e avaliação. Análises de correlação e testes de hipótese foram utilizados para quantificar relações e comparar grupos.
 
-📈 Resultados Obtidos e Considerações Finais
-Visão Geral da Análise
-A análise, majoritariamente via API do TMDB e complementada por um dataset adicional construído pela equipe, foi crucial para aprofundar a compreensão sobre o desempenho dos filmes brasileiros no Oscar de Melhor Filme Estrangeiro. As informações brutas iniciais eram insuficientes, motivando a criação de métricas adicionais (cinematografia, narrativa, impacto, elegibilidade, etc.) para uma avaliação mais completa.
-
-O Potencial do Cinema Brasileiro no Oscar
-O cinema brasileiro consistentemente demonstra elevado potencial artístico e técnico:
-
-"O Pagador de Promessas" (1963): Avaliações superiores ao vencedor do Oscar daquele ano, "Les dimanches de Ville d'Avray", e uma Palma de Ouro em Cannes.
-
-"Central do Brasil" (1999): Notas próximas à perfeição, quase empatando com "La vita è bella". A pequena diferença na métrica "Elegibilidade" (9.5 vs. 10.0 do vencedor) sugere a importância de critérios formais.
-
-"O Menino e o Mundo" (2016): Desempenho excelente (Cinematografia 9.8, Impacto Narrativo 9.5), mesmo competindo com o gigante "Divertida Mente".
-
-As médias das métricas no dataset adicional para filmes brasileiros indicados se enquadram consistentemente na categoria "Excelente", confirmando o valor artístico e técnico que o Brasil submete à Academia. No entanto, nuances competitivas criam barreiras.
-
-Barreiras para a Vitória: A Competição Internacional e o Marketing Global
-A competição no Oscar é intensa, com produções que se tornam fenômenos culturais e comerciais:
-
-"La vita è bella" (1999): Alta qualidade e bilheteria expressiva (US$ 230 milhões), com orçamento significativamente maior que "Central do Brasil" (US$ 2.9 milhões).
-
-"Divertida Mente" (2016): Produção da Disney com orçamento astronômico (US$ 175 milhões) e estrutura de marketing global massiva.
-
-"Karakter" (1998): Superou "O Que É Isso, Companheiro?" em métricas e possuía maior orçamento, ampliando sua projeção internacional.
-
-Campanhas de marketing e visibilidade global são cruciais. Filmes brasileiros, embora com boas pontuações em marketing em nossa análise, raramente se comparam ao alcance e investimento de grandes estúdios. Orçamentos limitados impedem campanhas "For Your Consideration" robustas, essenciais para a visibilidade entre os membros da Academia.
