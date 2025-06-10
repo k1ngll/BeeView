@@ -58,15 +58,15 @@ A análise principal está contida nos Jupyter Notebooks (.ipynb) localizados na
 4. Execução da Aplicação:
 A aplicação em Tkinter pode ser executada a partir da pasta /beeview - app/.
 
-👥 Equipa e Contato
+👥 Equipa
 Este projeto foi desenvolvido por:
 
-Christian Oliveira Jorge Moreira - 202408723946
+Christian Oliveira Jorge Moreira 
 
-Rafaela de Jesus Soares - 202403610876
+Rafaela de Jesus Soares
 
-Uiles dos Santos - 201951068491
+Uiles dos Santos
 
-Maria Eduarda Dias Alves da Silva - 202408371446
+Maria Eduarda Dias Alves da Silva
 
-Antonio Carlos Sena da Conceição Junior - 202102120748
+Antonio Carlos Sena da Conceição Junior
